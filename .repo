@@ -1,0 +1,9 @@
+{
+  "repo": 1,
+  "name": "tampermonkey-course-study-companion",
+  "what": "yourjobpocket 課程頁的個人用 Tampermonkey 腳本。",
+  "kind": "tool",
+  "work": {
+    "guide": "README.md"
+  }
+}
